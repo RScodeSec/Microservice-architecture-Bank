@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-10T17:44:19.946Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="O3iyMz6DHGxfImQyr5pJ" version="17.1.0" type="github" pages="4">
+<mxfile modified="2022-03-10T17:45:06.527Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="plUMGnzwZEPjXVmPuJsT" version="17.1.0" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Macrodiseño">
     <mxGraphModel dx="999" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="qSfoanHrgOsR2zZDTymw-9" value="MongoDB" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloud_directory;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="276" y="531.5" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfoanHrgOsR2zZDTymw-20" value="GET account/all&lt;br&gt;POST account/${type_product}/${name}&lt;br&gt;POST account/charge/${id_acoount}&lt;br&gt;POST account/pay&lt;br&gt;POST account/depositar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="230" y="920" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qSfoanHrgOsR2zZDTymw-28" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="375" width="30" height="60" as="geometry" />
